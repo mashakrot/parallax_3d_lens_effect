@@ -1,6 +1,6 @@
 # Interactive Parallax 3D Lens Effect with Glassmorphism Popup
 
-Stunning interactive 3D parallax lens effect with Glassmorphism popup — using CSS&JS.
+Stunning interactive 3D parallax lens effect with Glassmorphism popup — using CSS & JS.
 
 Check it out here 👉 [Interactive 3D Lens Effect](https://mashakrot.github.io/parallax_3d_lens_effect/)
 
